@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class ThemeColors {
-  static const Color primaryColor = Color(0xfff46322);
+  static const Color primaryColor = Color(0xff22bcf4);
   static const Color scaffoldBgColor = Colors.black;
   static const Color scaffoldfgColor = Colors.blue;
   static const Color textFieldBgColor = Colors.grey;
@@ -15,5 +15,5 @@ class ThemeColors {
   static const Color scaffold_bg_Color = Color(0xFFFFFFF7);
 
   static const Color off_white_Color = Color(0xFFF8F0E3);
-  static const Color baseThemeColor = Color(0xffEE1D48);
+  static const Color baseThemeColor = Color(0xfff46322);
 }
